@@ -1,2 +1,2 @@
 # firebase-cloud-functions
-this is repo for functions testing
+this repo is for firebase cloud functions testing
